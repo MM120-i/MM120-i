@@ -3,7 +3,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?          font=Source+Code+Pro&weight=100&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Designing+Operating+Systems;Designing+Algorithms;Game+Development;Developing+User-Friendly+Software;Turning+Ideas+into+Code" alt="Typing SVG" /></a>
   </p>
   <p>
-    👨‍💻 Computer Science student 🎓 | Web & Game Dev enthusiast 🌐🎮 | Java, C, JavaScript coder ☕💻 | Turning ideas into reality 🚀 | Let's connect on LinkedIn!
+    I'm a passionate computer science student at York University. Pursuing a BSc Honors degree, my journey involves mastering advanced mathematics, computer programming, and logic, equipping me to tackle complex problems with inventive solutions.
+
+I've honed my skills through hands-on experiences, including my role as a freelancer programmer. Specializing in Java and JavaScript, I develop captivating game experiences and design engaging, responsive websites.
+
+From database management to mobile app creation, I'm immersed in diverse tech ventures, all reflecting my commitment to crafting impactful solutions. 
   </p>
   <br>
 <div>
