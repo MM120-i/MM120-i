@@ -9,6 +9,7 @@ I've honed my skills through hands-on experiences, including my role as a freela
 
 From database management to mobile app creation, I'm immersed in diverse tech ventures, all reflecting my commitment to crafting impactful solutions. 
   </p>
+  
   <br>
 <div>
     <img align='left' src="https://github-readme-stats.vercel.app/api?username=MM120-i&show_icons=true&theme=radical"/>
