@@ -5,7 +5,7 @@
   <p>
    I'm a passionate computer science student at York University, where I am pursuing a BSc Honors degree. My journey involves mastering advanced mathematics, computer programming, and logic, equipping me to tackle complex problems with inventive solutions.
 
-I've honed my skills through hands-on experiences, including my role as a freelancer programmer. Specializing in Java and JavaScript, I develop captivating game experiences and design engaging, responsive websites.
+I've honed my skills through hands-on experiences. Specializing in Java, JavaScript, and C. I develop captivating game experiences and design engaging, responsive websites.
 
 From database management to mobile app creation, I'm immersed in diverse tech ventures, all reflecting my commitment to crafting impactful solutions. 
   </p>
