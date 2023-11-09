@@ -1,6 +1,6 @@
 # Hey there, im Mahim
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?          font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Software+Engineering;Designing+Algorithms;Game+Development;Designing+Operating+Systems;Turning+Ideas+into+Code" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?          font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Causer;Software+Engineering;Designing+Algorithms;Game+Development;Designing+Operating+Systems;Turning+Ideas+into+Code" alt="Typing SVG" /></a>
   </p>
   <p>
    I'm a passionate computer science student at York University, where I am pursuing a BSc Honors degree. My journey involves mastering advanced mathematics, computer programming, and logic, equipping me to tackle complex problems with inventive solutions.
