@@ -12,7 +12,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   
   <br>
 <div>
-  <div align="center">
+  <div align="left">
     <img
       title="streaks"
       alt="github streak"
