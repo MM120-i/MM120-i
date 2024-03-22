@@ -37,7 +37,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,java,c,kotlin,html,css,powershell,bash,tailwind" />
+        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css" />
       </a>
     </p>
   </div>
@@ -55,7 +55,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,nodejs,npm,threejs" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,nodejs,npm,threejs,tailwind" />
       </a>
     </p>
   </div>
@@ -64,7 +64,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,stackoverflow,cmake,idea" />
+        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,idea,powershell,bash" />
       </a>
     </p>
   </div>
