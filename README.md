@@ -74,4 +74,10 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
    <a href="https://www.linkedin.com/in/mahim-m/">
      <img src="https://skillicons.dev/icons?i=linkedin"/>
    </a>&nbsp;
+   <a href="">
+     <img src="https://skillicons.dev/icons?i=discord"/>
+   </a>&nbsp;
+   <a href="">
+     <img src="https://skillicons.dev/icons?i=instagram"/>
+   </a>&nbsp;
  </p>
