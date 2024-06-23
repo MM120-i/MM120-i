@@ -64,7 +64,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,idea,powershell,bash" />
+        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,idea,powershell,bash,latex" />
       </a>
     </p>
   </div>
