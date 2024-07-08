@@ -37,7 +37,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css,kotlin" />
+        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css,kotlin,py" />
       </a>
     </p>
   </div>
