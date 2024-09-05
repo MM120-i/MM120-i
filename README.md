@@ -37,7 +37,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css,kotlin,py,cs,cpp,fortran" />
+        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css,kotlin,py,cs,cpp,fortran,verilog" />
       </a>
     </p>
   </div>
@@ -46,7 +46,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,prisma,github,vercel,heroku,mysql" />
+        <img src="https://skillicons.dev/icons?i=mongodb,prisma,github,vercel,heroku,mysql,sqlite,supabase" />
       </a>
     </p>
   </div>
@@ -55,7 +55,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,nodejs,npm,threejs,tailwind,angular" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,nodejs,npm,threejs,tailwind,angular,spring" />
       </a>
     </p>
   </div>
@@ -64,7 +64,7 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,idea,powershell,bash,latex" />
+        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,linux,discord,idea,powershell,sentry,bash,latex" />
       </a>
     </p>
   </div>
