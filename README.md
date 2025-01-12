@@ -14,7 +14,6 @@ From database management to mobile app creation, I'm immersed in diverse tech ve
 <div>
   <div align="left">
     <img
-      title="streaks"
       src="https://streak-stats.demolab.com/?user=MM120-i&theme=monokai-metallian&hide_border=true"
     />
     <img
