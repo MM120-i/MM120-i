@@ -18,10 +18,9 @@ I'm a Computer Science graduate from York University with a passion for building
 
 
   </p>
-  
   <br>
 <div>
-  <div align="left">
+  <div align="center">
     <img
       src="https://streak-stats.demolab.com/?user=MM120-i&theme=monokai-metallian&hide_border=true"
     />
