@@ -5,7 +5,7 @@
   <p>
 I'm a Computer Science graduate from York University with a passion for building across platforms from system-level programming to mobile applications. My current focus is mobile app development and systems-level programming, where I dive into everything from memory management to UI polish.
 
-### Tech I Tinker With
+### Tech
 - Frameworks & Tools: Next.js, React.js, React Native, Android Studio, Appwrite
 - Languages: C/C++, JavaScript, TypeScript, Java, C#, Python, Kotlin, Rust, Assembly (x86/ARM)
 - Databases & Backend: MySQL, SQLite, Redis, Firebase, Supabase
@@ -14,9 +14,8 @@ I'm a Computer Science graduate from York University with a passion for building
 - Advanced Web/Mobile app development
 - Low-level programming
 - Embedded systems & distributed architectures
-- Game development 
-
-
+- Game development
+  
   </p>
   <br>
 <div>
@@ -29,7 +28,7 @@ I'm a Computer Science graduate from York University with a passion for building
       src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MM120-i&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
     />
   </div>
-  <div align="center">
+  <div align="right">
     <img
       alt="All Used Languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MM120-i&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
