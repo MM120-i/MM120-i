@@ -3,18 +3,28 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Mobile+App+Dev;System+Programming;OS%2FEmbedded" alt="Typing SVG" /></a>
   </p>
   <p>
-I'm a Computer Science graduate from York University with a passion for building across platforms from system-level programming to mobile applications. My current focus is mobile app development and systems-level programming, where I dive into everything from memory management to UI polish.
+I’m a Computer Science graduate who builds across the stack — from efficient low-level systems to refined mobile and web applications. I work in the space where memory allocators, schedulers, and intuitive user experiences intersect to create products that are both performant and delightful to use.
 
-### Tech
-- Frameworks & Tools: Next.js, React.js, React Native, Android Studio, Appwrite
-- Languages: C/C++, JavaScript, TypeScript, Java, C#, Python, Kotlin, Rust, Assembly (x86/ARM)
-- Databases & Backend: MySQL, SQLite, Redis, Firebase, Supabase
-  
-### What I’m Exploring
-- Advanced Web/Mobile app development
-- Low-level programming
-- Embedded systems & distributed architectures
-- Game development
+### What I love building
+
+- Low-level tools in **C/C++/Rust** where memory, and performance *actually matter*.
+- Cross-platform mobile apps (Android/Kotlin, React Native), especially products that feel fast, intuitive, and delightful to use.
+- Scalable web applications in Next.js and React, built with clean architecture and responsive UIs.
+
+
+### Technologies I actually *reach for*
+
+| Area                         | Stack                                                         |
+|------------------------------|---------------------------------------------------------------|
+| Systems / low-level          | `C`, `C++`, `Rust`, `Assembly`, Linux, GDB, Make, CMake       |
+| Mobile app development       | `Flutter`, `Kotlin`, `Android Studio`, `React Native`         |
+| Web / backend                | `Next.js`, `React`, `TypeScript`, `Firebase`, `Supabase`      |
+
+### What I’m exploring right now
+
+- Writing an MS-DOS clone to deepen my kernel/scheduler knowledge
+- Building a production-ready React Native app with offline sync & animated UI
+- Optimizing embedded workloads on a Raspberry Pi
   
   </p>
   <br>
