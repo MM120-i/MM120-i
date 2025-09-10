@@ -17,8 +17,8 @@ I’m a Computer Science graduate who builds across the stack — from efficient
 | Area                         | Stack                                                         |
 |------------------------------|---------------------------------------------------------------|
 | Systems / low-level          | `C`, `C++`, `Rust`, `Assembly`, Linux, GDB, Make, CMake       |
-| Mobile app development       | `Flutter`, `Kotlin`, `Android Studio`, `React Native`         |
-| Web / backend                | `Next.js`, `React`, `TypeScript`, `Firebase`, `Supabase`      |
+| Mobile app development       | `Flutter`, `Kotlin`, `Android Studio`, `React Native`, `Java` |
+| Web / backend                | `Next.js`, `React`, `TypeScript`, `Firebase`, `Supabase`, `Spring`|
 
 ### What I’m exploring right now
 
