@@ -27,27 +27,25 @@ I’m a Computer Science graduate who builds across the stack from efficient low
 
   <img 
     alt="Stats" 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MM120-i&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MM120-i&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" 
     width="500"
   />
 
   <img 
-    src="https://streak-stats.demolab.com/?user=MM120-i&theme=chartreuse-dark&hide_border=true" 
+    src="https://streak-stats.demolab.com/?user=MM120-i&theme=tokyonight&hide_border=true" 
     width="500"
   />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MM120-i&theme=chartreuse-dark&hide_border=true" />
-
 
   <br>
 
   <img 
     alt="Top Languages" 
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MM120-i&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&hide=Jupyter%20Notebook,Roff,HTML,CSS" 
-    width="500"
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MM120-i&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=HTML,CSS" 
+    width="450"
   />
 
 </div>
+
 
 
 <br>
