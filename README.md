@@ -23,19 +23,32 @@ I’m a Computer Science graduate who builds across the stack from efficient low
   
   </p>
   <br>
-<div align="center" >
-  <div>
-    <tr>
-      <td>
-        <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MM120-i&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="500" height="196"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=MM120-i&theme=monokai-metallian&hide_border=true" width="500"  />
-      </td>
-    </tr>
-  </div>
-  <img alt="All Used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MM120-i&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="350"/>
+<div align="center">
+
+  <img 
+    alt="Stats" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MM120-i&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true" 
+    width="500"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com/?user=MM120-i&theme=chartreuse-dark&hide_border=true" 
+    width="500"
+  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MM120-i&theme=chartreuse-dark&hide_border=true" />
+
+
+  <br>
+
+  <img 
+    alt="Top Languages" 
+    src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MM120-i&langs_count=8&layout=compact&theme=chartreuse-dark&hide_border=true&hide=Jupyter%20Notebook,Roff,HTML,CSS" 
+    width="500"
+  />
+
 </div>
+
 
 <br>
 
