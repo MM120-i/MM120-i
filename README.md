@@ -1,30 +1,25 @@
 # Hey there, I'm Mahim
   <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Mobile+App+Dev;System+Programming;OS%2FEmbedded" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Systems+Programming;Embedded;Mobile/Web+dev" alt="Typing SVG" /></a>
   </p>
   <p>
-I’m a Computer Science graduate who builds across the stack — from efficient low-level systems to refined mobile and web applications. I work in the space where memory allocators, schedulers, and intuitive user experiences intersect to create products that are both performant and delightful to use.
+I’m a Computer Science graduate who builds across the stack from efficient low-level systems to mobile and web apps. 
 
-### What I love building
+### What I build
 
 - Low-level tools in **C/C++/Rust** where memory, and performance *actually matter*.
-- Cross-platform mobile apps (Android/Kotlin, React Native), especially products that feel fast, intuitive, and delightful to use.
-- Scalable web applications in Next.js and React, built with clean architecture and responsive UIs.
+- Cross-platform mobile apps (Android/Kotlin, React Native).
+- Web apps in Next.js and React, built with clean architecture and responsive UIs.
 
 
-### Technologies I actually *reach for*
+### Technologies
 
 | Area                         | Stack                                                         |
 |------------------------------|---------------------------------------------------------------|
-| Systems / low-level          | `C`, `C++`, `Rust`, `Assembly`, Linux, GDB, Make, CMake       |
-| Mobile app development       | `Flutter`, `Kotlin`, `Android Studio`, `React Native`, `Java` |
+| Systems          | `C`, `C++`, `Rust`, `Assembly`, `Linux`, `GDB`, `CMake`       |
+| Mobile app dev       | `Flutter`, `Kotlin`, `Android Studio`, `React Native`, `Java` |
 | Web / backend                | `Next.js`, `React`, `TypeScript`, `Firebase`, `Supabase`, `Spring`|
 
-### What I’m exploring right now
-
-- Writing an MS-DOS clone to deepen my kernel/scheduler knowledge
-- Building a production-ready React Native app with offline sync & animated UI
-- Optimizing embedded workloads on a Raspberry Pi
   
   </p>
   <br>
@@ -49,7 +44,7 @@ I’m a Computer Science graduate who builds across the stack — from efficient
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=ts,js,java,c,html,css,kotlin,py,cs,cpp" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,cs,rust,py,java,ts,js,bash" />
       </a>
     </p>
   </div>
@@ -58,7 +53,7 @@ I’m a Computer Science graduate who builds across the stack — from efficient
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,prisma,github,vercel,heroku,mysql,sqlite,supabase" />
+        <img src="https://skillicons.dev/icons?i=mysql,sqlite,github,mongodb,docker,redis,supabase" />
       </a>
     </p>
   </div>
@@ -67,7 +62,7 @@ I’m a Computer Science graduate who builds across the stack — from efficient
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,bootstrap,nodejs,npm,threejs,tailwind" />
+        <img src="https://skillicons.dev/icons?i=cmake,qt,raspberrypi,arduino,opencv,nextjs,express,spring" />
       </a>
     </p>
   </div>
@@ -76,7 +71,7 @@ I’m a Computer Science graduate who builds across the stack — from efficient
   <div>
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,figma,androidstudio,gradle,eclipse,windows,vscode,visualstudio,linux,discord,idea,powershell,sentry,bash,latex,unity" />
+        <img src="https://skillicons.dev/icons?i=git,linux,vscode,visualstudio,powershell,windows,eclipse,discord,sentry,latex,kubernetes,aws"         />
       </a>
     </p>
   </div>
@@ -91,5 +86,8 @@ I’m a Computer Science graduate who builds across the stack — from efficient
    </a>&nbsp;
    <a href="">
      <img src="https://skillicons.dev/icons?i=instagram"/>
+   </a>&nbsp;
+    <a href="">
+     <img src="https://skillicons.dev/icons?i=stackoverflow"/>
    </a>&nbsp;
  </p>
