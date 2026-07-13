@@ -1,4 +1,4 @@
-# Hey there, I'm Mahim
+# Hi I'm Mahim
   <p>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=1000&duration=600&pause=50&color=B7FF0B&background=01010400&multiline=true&width=435&height=150&lines=Problem+Solver;Systems+Programming;Embedded;Mobile/Web+dev" alt="Typing SVG" /></a>
   </p>
@@ -7,7 +7,7 @@ I’m a Computer Science graduate who builds across the stack from efficient low
 
 ### What I build
 
-- Low-level tools in **C/C++/Rust** where memory, and performance *actually matter*.
+- Low-level tools in **C/C++/Rust** where memory, and performance *matter*.
 - Cross-platform mobile apps (Android/Kotlin, React Native).
 - Web apps in Next.js and React, built with clean architecture and responsive UIs.
 
